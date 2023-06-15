@@ -1,7 +1,7 @@
 // Motor A connections
 int enA = 9;
 int in1 = 8; //green
-int in2 = 7; // yello
+int in2 = 7; // yellow
 
 // Motor B connections
 int enB = 10;
